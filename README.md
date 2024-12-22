@@ -1,2 +1,0 @@
-# landingpage
-my landing-page
